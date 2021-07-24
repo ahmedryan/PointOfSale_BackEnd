@@ -1,0 +1,110 @@
+[
+  {
+    "Pid": "pant_1",
+    "CategoryId": 4,
+    "FitId": 1,
+    "SizeId": 4,
+    "ColorId": 2,
+    "Price": 1000,
+    "DateOfPurchase": "2021-06-24T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "pant_2",
+    "CategoryId": 4,
+    "FitId": 2,
+    "SizeId": 3,
+    "ColorId": 3,
+    "Price": 1000,
+    "DateOfPurchase": "2021-06-24T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "trouser_1",
+    "CategoryId": 5,
+    "FitId": 3,
+    "SizeId": 4,
+    "ColorId": 3,
+    "Price": 500,
+    "DateOfPurchase": "2021-06-22T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "trouser_2",
+    "CategoryId": 5,
+    "FitId": 2,
+    "SizeId": 3,
+    "ColorId": 4,
+    "Price": 500,
+    "DateOfPurchase": "2021-06-22T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "pajama_1",
+    "CategoryId": 6,
+    "FitId": 2,
+    "SizeId": 4,
+    "ColorId": 1,
+    "Price": 700,
+    "DateOfPurchase": "2021-06-20T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "pajama_2",
+    "CategoryId": 6,
+    "FitId": 1,
+    "SizeId": 2,
+    "ColorId": 2,
+    "Price": 700,
+    "DateOfPurchase": "2021-06-20T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "shirt_1",
+    "CategoryId": 1,
+    "FitId": 1,
+    "SizeId": 4,
+    "ColorId": 6,
+    "Price": 1000,
+    "DateOfPurchase": "2021-06-18T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "shirt_2",
+    "CategoryId": 1,
+    "FitId": 2,
+    "SizeId": 3,
+    "ColorId": 3,
+    "Price": 1000,
+    "DateOfPurchase": "2021-06-18T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "tshirt_1",
+    "CategoryId": 2,
+    "FitId": 3,
+    "SizeId": 4,
+    "ColorId": 5,
+    "Price": 500,
+    "DateOfPurchase": "2021-06-08T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "tshirt_2",
+    "CategoryId": 2,
+    "FitId": 2,
+    "SizeId": 3,
+    "ColorId": 4,
+    "Price": 500,
+    "DateOfPurchase": "2021-06-08T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "panjabi_1",
+    "CategoryId": 3,
+    "FitId": 2,
+    "SizeId": 4,
+    "ColorId": 4,
+    "Price": 1500,
+    "DateOfPurchase": "2021-05-29T04:45:23.2321927Z"
+  },
+  {
+    "Pid": "panjabi_2",
+    "CategoryId": 3,
+    "FitId": 1,
+    "SizeId": 5,
+    "ColorId": 5,
+    "Price": 1500,
+    "DateOfPurchase": "2021-05-29T04:45:23.2321927Z"
+  }
+]
